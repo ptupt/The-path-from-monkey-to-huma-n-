@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Путь от обезьяны до человека": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
