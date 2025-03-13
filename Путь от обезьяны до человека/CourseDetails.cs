@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace 202.Дубровский.wdad.learn.course.course
+namespace MyGroup.Dubrovskiy.wdad.learn.course 
 {
     internal class CourseDetails
     {
+        
     }
 }

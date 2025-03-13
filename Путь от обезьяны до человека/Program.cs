@@ -1,10 +1,14 @@
-﻿namespace 202.Дубровский.wdad
+﻿using System;
+
+namespace _202.Dubrovskiy.wdad.learn 
 {
-    class Program
+    public class Application
     {
-        static void Main(string[] args)
+        private const string Value = "I'm Dubrovskiy, and I'm not a monkey";
+
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine(Value);
         }
     }
 }

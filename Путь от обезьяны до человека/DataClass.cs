@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace 202.Дубровский.wdad.data
+namespace Group202.Dubrovskiy.wdad.data 
 {
     internal class DataClass
     {
+        
     }
 }
